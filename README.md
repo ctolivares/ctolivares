@@ -41,7 +41,7 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
   - Delivered actionable insights on beverage sales trends and profitability.  
   - Improved data-driven decision-making through KPI analysis and visual reporting.  
   - Supported strategic planning by identifying market growth and optimization areas.    
-- [View Project](Beverages_orders.pbix)  
+- [PowerBI file](Beverages_orders.pbix)  
 
 ---
 
@@ -53,7 +53,7 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
   - PSA conversion rate: **1.82%**
   - **p-value = 1.99e-13** → statistically significant difference  
   - The ad version outperformed the control, showing a clear positive uplift in conversions.  
-- [View Project](Test_AB.zip) 
+- [Jupyter Notebook file](Test_AB.zip) 
 
 ---
 
@@ -65,7 +65,7 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
   - Defined optimal recovery strategies per group, improving prioritization.
   - Guided channel selection (WhatsApp, calls, email) to increase efficiency.  
     
-- [View Project](customer_segmentation.zip) 
+- [Jupyter Notebook file](customer_segmentation.zip) 
 
 
 ---
