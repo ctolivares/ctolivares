@@ -65,7 +65,7 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
   - Defined optimal recovery strategies per group, improving prioritization.
   - Guided channel selection (WhatsApp, calls, email) to increase efficiency.  
     
-- [View Project](Test_AB.zip) 
+- [View Project](customer_segmentation.zip) 
 
 
 ---
