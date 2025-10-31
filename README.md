@@ -52,9 +52,20 @@ With over 8 years of experience in **Business Intelligence and Data Analytics**,
   - AD conversion rate: **2.62%**
   - PSA conversion rate: **1.82%**
   - **p-value = 1.99e-13** → statistically significant difference  
-  - The ad version outperformed the control, showing a clear positive uplift in conversions..  
+  - The ad version outperformed the control, showing a clear positive uplift in conversions.  
 - [View Project](Test_AB.zip) 
 
+---
+
+### <img src="https://img.icons8.com/color/48/000000/python.png" width="20"/> Customer Segmentation – *Python*
+- **Goal:** Segment customers into clusters to identify repayment potential and define targeted collection strategies based on financial behavior.  
+- **Stack:** Python, Pandas, Scikit-learn (K-means), Matplotlib  
+- **Impact:**
+  - Identified 3 clusters with distinct income, score, and delay profiles.
+  - Defined optimal recovery strategies per group, improving prioritization.
+  - Guided channel selection (WhatsApp, calls, email) to increase efficiency.  
+    
+- [View Project](Test_AB.zip) 
 
 
 ---
